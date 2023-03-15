@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e30487c4.css",
+    "main.js": "/static/js/main.6b5b2160.js",
+    "static/media/kalen-emsley-Bkci_8qcdvQ-unsplash.png": "/static/media/kalen-emsley-Bkci_8qcdvQ-unsplash.dc7a08e1faa2e14de0bd.png",
+    "static/media/IMG.png": "/static/media/IMG.1168be13650bb18b456e.png",
+    "index.html": "/index.html",
+    "main.e30487c4.css.map": "/static/css/main.e30487c4.css.map",
+    "main.6b5b2160.js.map": "/static/js/main.6b5b2160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e30487c4.css",
+    "static/js/main.6b5b2160.js"
+  ]
+}
